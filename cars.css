@@ -1,0 +1,28 @@
+#back {
+background: url(back.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+width: auto;
+height: 450px;}
+
+#road {
+background: url(roads.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+width: auto;
+height: 150px;
+}
+#img{
+width: 250px;}
+#btn{
+  background-color: yellow;
+  width: 100px;
+  font-size: 30px;
+  margin-top: 30px;
+}
+#btton{
+ display: flex;
+ justify-content: center;
+  align-items: center;}
